@@ -1,0 +1,5 @@
+print("siva Technology")
+print("student login")
+print("Enter user id")
+print("Enter password")
+print("Enter your email")
